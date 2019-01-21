@@ -1,0 +1,5 @@
+APPETIZER/Chicken Wings/9.99
+APPETIZER/Breaded Shrimp/10.99
+MAIN/Fig Bar/2.5
+DESSERT/Deluxe Cake/1212.12
+BEVERAGE/Soymilk/99.5

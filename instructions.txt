@@ -1,0 +1,92 @@
+INSTRUCTIONS
+
+
+DINE IN TAB INSTRUCTIONS
+
+General overview:
+
+-On the far left, you will see the table layout that you have made (or our default one if one has not been made)
+-Clicking on one of the labeled tables will bring up the orders associated with that table
+-Alternatively, you can click on the drop-down menu to select a table
+
+-When food have been added and a table has been selected, orders will be displayed below the drop-down menu, sorted by customer number, and containing the food ordered by that customer
+
+-There will then be a total price indicator at the bottom of all the orders
+
+
+Add New Order:
+
+-Clicking the "ADD NEW ORDER" button will trigger a popup menu that contains your restaurant's menu that you made (or our default one if one has not been made), organized by apps, mains, drinks and desserts in separate tabs
+-Here, you can click between tabs and select an item from the list that you wish to add to an order
+-You can then click the "Add Appetizer"/"Add Main"/"Add Beverage"/"Add Dessert" button (depending on which tab you are in) to add that order to the box containing "Current Order" so that you can view all the food that is being added 
+-You then have to enter which customer is ordering this food in the "Enter Customer Number" field, in order to organize the program
+-Finally, you can press the "Complete Order" button to send the food to finish adding items to a customer's order
+
+
+Edit Order:
+
+-Selecting an order from the list of orders in the middle of the screen, and clicking the "EDIT ORDER" button will bring up a similar popup menu to the "ADD NEW ORDER" button, except this window will not have the "Enter Customer Number" field, as pressing the "Complete Order" button will register the order to the corresponding customer that you have clicked
+NOTE - you can only click on the customer number, or one of the customer's foods to add to the right customer
+
+
+Remove Order:
+
+-Clicking the "REMOVE ORDER" button while selecting an order from the list of orders in the middle of the screen will cancel that order and will delete it from the list
+NOTE - you can click on either the customer number to remove all the food the customer has ordered, or you can click on an individual food to remove it from te order
+
+
+Complete Order:
+
+-Clicking the "COMPLETE ORDER" button will take all orders from the list of orders in the middle of the screen and mark them as "completed", as in the customers have received their food, payed, and left
+-After clicking, you will be prompted to enter a tip in % or $ that the customers have given
+NOTE - clicking "Cancel", the "X" button in the top right or the "OK" button without entering an amount will default to a tip of $0.00
+-After clicking the "COMPLETE ORDER" button, completed orders for the whole day can be viewed in the "COMPLETED ORDERS" tab, and they are organized by dine in orders, and take out orders
+
+
+TAKE OUT TAB INSTRUCTIONS:
+
+Welcome to the Take Out Orders Panel. Here, all your orders for take out food can be created, logged, processed and more!
+-On your left side you will find a drop down menu listing all the specific orders. You will need to use this to access the viewing, editing, removing and completing order features
+-Under that, you will find a list with all the orders, their names, and their times ordered. Also included is their individual foods
+-On the right hand side, there are 5 buttons as follows:
+	-View Order: When an order is selected, this button will isolate the list to show only the selected order, as well as the pricing information
+	-Add Order: Adds a new order, with preset Order Number and Order Time. Popup menu is split in four sections for easy navigation
+	-Edit Order: When an order is selected, this button will open up a menu very much like the Add Order, however with preexisting information. Any edits can be made
+	-Remove Order: Deletes a selected order from the list and all memory
+	-Complete Order: Removes the order from the lists, however transfers information to the Completed Orders Tab
+
+
+FLOOR LAYOUT TAB:
+
+The Menu Editor is a basic table layout editor in which you can add and remove items from your loaded menu.
+The Add Item button creates a new row in the table in which the first column is a drop down menu of menu items, 
+and the other columns and text fields.
+The Remove Selected Item button simply removes the item you have selected in the table.
+The Save Menu button saves the menu you currently have in your table. Please make sure to select the table your menu is
+in so that no data is lost.
+
+The Layout Panel is a graphical representation of your restaurant's floor plan. 
+In the floor status tab, you can click on each table to change their statuses accordingly. 
+Grey: Empty
+Yellow: Order is pending
+Orange: Food is pending
+Green: Customers are eating
+Red: Table is unavailable
+In the dine in orders tab, tables are used to store that table's data and can be clicked on for information.
+In the waiter's tab, tables can be assigned a colour representating a waiter zone. This zone will be shown through
+a table border in the colour of the assigned waiter.
+
+
+WAITER TAB INSTRUCTIONS:
+
+In order to operate the waiter tab, you must first add a waiter by clicking the button that says "add waiter"
+After clicking that button, a window should pop up where you should add a name to the waiter and select a colour for the waiter
+After selecting a colour and picking a name, save the changes by clicking the button that says "Add"
+You can also continue adding waiters by clicking the "add waiter" button again
+From here you can assign the waiter to a table by clicking on the waiter's name in the list and then clicking on the table that you want to assign it to
+If you want to to unassign a waiter from a table, simply click on the table you want to unassign them from
+If you want to edit the name or colour of a waiter, simply click on their name in the list and then click on the edit button
+Removing waiters from the list can be done by clicking on their name and then pressing the remove button
+If you want to view tips just select the waiter that you want to view and then press the "View Tips" button
+
+
